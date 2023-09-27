@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
+<hr>
 <h3 align="center">A passionate & aspiring Fullstack developer from India</h3>
+<hr>
+<h4>About Myself</h4>
 
-- 🌱 I’m currently learning **Full stack development**
+- 📚 I’m currently learning **Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MYSTERYi0](https://github.com/MYSTERYi0)
 
-- 💬 Ask me about **Python, Django, Express JS**
+- 🎙️ Ask me about **Python, Django, Express JS**
 
 - 📫 How to reach me aryanrgupta0001@gmail.com
 
