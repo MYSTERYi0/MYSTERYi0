@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Gupta</h1>
 <h3 align="center">A passionate & aspiring Fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MYSTERYi0](https://github.com/MYSTERYi0)
 
